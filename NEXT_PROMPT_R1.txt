@@ -1,0 +1,1 @@
+游戏在浏览器里能正常打开，主菜单、选教材、选关卡、选词义玩法、听力玩法、统计/成就/错词本/设置都能用。但切换到「拼写」Tab 时整个模式直接崩了，浏览器控制台抛 ReferenceError: inputRef is not defined，定位到 src/components/SpellingMode.jsx 第 49 行那个 `<input ref={inputRef} />`，inputRef 这个变量在组件里压根没声明，Solid 编译器生成的代码一执行就报错，拼写模式的输入框、首字母提示、确认按钮全渲染不出来。检查修复一下。
