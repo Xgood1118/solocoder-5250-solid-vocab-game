@@ -1,0 +1,186 @@
+{
+  "bookId": "grade7-1",
+  "bookName": "初一上册",
+  "levels": [
+    {
+      "level": 1,
+      "words": [
+        {"word": "good", "meaning": "好的", "phonetic": "/ɡʊd/", "example": "She is a good student.", "difficulty": 1},
+        {"word": "morning", "meaning": "早晨；上午", "phonetic": "/ˈmɔːnɪŋ/", "example": "Good morning, class!", "difficulty": 1},
+        {"word": "hello", "meaning": "你好；喂", "phonetic": "/həˈləʊ/", "example": "Hello, my name is Tom.", "difficulty": 1},
+        {"word": "name", "meaning": "名字；名称", "phonetic": "/neɪm/", "example": "What is your name?", "difficulty": 1},
+        {"word": "nice", "meaning": "令人愉快的；好的", "phonetic": "/naɪs/", "example": "Nice to meet you.", "difficulty": 1},
+        {"word": "meet", "meaning": "遇见；相逢", "phonetic": "/miːt/", "example": "I am happy to meet you.", "difficulty": 2},
+        {"word": "too", "meaning": "也；又；太", "phonetic": "/tuː/", "example": "Nice to meet you, too.", "difficulty": 1},
+        {"word": "his", "meaning": "他的", "phonetic": "/hɪz/", "example": "His name is Jack.", "difficulty": 1},
+        {"word": "her", "meaning": "她的", "phonetic": "/hɜː/", "example": "Her name is Mary.", "difficulty": 1},
+        {"word": "question", "meaning": "问题；询问", "phonetic": "/ˈkwestʃən/", "example": "I have a question.", "difficulty": 2}
+      ]
+    },
+    {
+      "level": 2,
+      "words": [
+        {"word": "answer", "meaning": "答案；回答", "phonetic": "/ˈɑːnsə/", "example": "This is the answer.", "difficulty": 2},
+        {"word": "first", "meaning": "第一；首先", "phonetic": "/fɜːst/", "example": "Monday is the first day.", "difficulty": 1},
+        {"word": "last", "meaning": "最后的；最后", "phonetic": "/lɑːst/", "example": "Sunday is the last day.", "difficulty": 1},
+        {"word": "boy", "meaning": "男孩", "phonetic": "/bɔɪ/", "example": "The boy is my brother.", "difficulty": 1},
+        {"word": "girl", "meaning": "女孩", "phonetic": "/ɡɜːl/", "example": "The girl is my sister.", "difficulty": 1},
+        {"word": "zero", "meaning": "零", "phonetic": "/ˈzɪərəʊ/", "example": "The number is zero.", "difficulty": 1},
+        {"word": "phone", "meaning": "电话；电话机", "phonetic": "/fəʊn/", "example": "My phone is new.", "difficulty": 2},
+        {"word": "number", "meaning": "号码；数字", "phonetic": "/ˈnʌmbə/", "example": "What is your phone number?", "difficulty": 2},
+        {"word": "friend", "meaning": "朋友", "phonetic": "/frend/", "example": "She is my best friend.", "difficulty": 2},
+        {"word": "China", "meaning": "中国", "phonetic": "/ˈtʃaɪnə/", "example": "I live in China.", "difficulty": 1}
+      ]
+    },
+    {
+      "level": 3,
+      "words": [
+        {"word": "family", "meaning": "家庭；家人", "phonetic": "/ˈfæməli/", "example": "My family is big.", "difficulty": 2},
+        {"word": "mother", "meaning": "母亲；妈妈", "phonetic": "/ˈmʌðə/", "example": "My mother is kind.", "difficulty": 1},
+        {"word": "father", "meaning": "父亲；爸爸", "phonetic": "/ˈfɑːðə/", "example": "My father is tall.", "difficulty": 1},
+        {"word": "parent", "meaning": "父亲（或母亲）", "phonetic": "/ˈpeərənt/", "example": "My parent is a teacher.", "difficulty": 3},
+        {"word": "brother", "meaning": "兄弟", "phonetic": "/ˈbrʌðə/", "example": "I have one brother.", "difficulty": 1},
+        {"word": "sister", "meaning": "姐妹", "phonetic": "/ˈsɪstə/", "example": "She is my sister.", "difficulty": 1},
+        {"word": "grandmother", "meaning": "奶奶；外婆", "phonetic": "/ˈɡrænmʌðə/", "example": "My grandmother is old.", "difficulty": 2},
+        {"word": "grandfather", "meaning": "爷爷；外公", "phonetic": "/ˈɡrænfɑːðə/", "example": "My grandfather is kind.", "difficulty": 2},
+        {"word": "those", "meaning": "那些", "phonetic": "/ðəʊz/", "example": "Those books are mine.", "difficulty": 2},
+        {"word": "these", "meaning": "这些", "phonetic": "/ðiːz/", "example": "These are my friends.", "difficulty": 2}
+      ]
+    },
+    {
+      "level": 4,
+      "words": [
+        {"word": "who", "meaning": "谁", "phonetic": "/huː/", "example": "Who is that man?", "difficulty": 1},
+        {"word": "they", "meaning": "他们；她们；它们", "phonetic": "/ðeɪ/", "example": "They are my parents.", "difficulty": 1},
+        {"word": "have", "meaning": "有；经历", "phonetic": "/hæv/", "example": "I have a new pen.", "difficulty": 1},
+        {"word": "day", "meaning": "天；日子；白天", "phonetic": "/deɪ/", "example": "Today is a sunny day.", "difficulty": 1},
+        {"word": "photo", "meaning": "照片", "phonetic": "/ˈfəʊtəʊ/", "example": "This is a family photo.", "difficulty": 2},
+        {"word": "picture", "meaning": "图片；照片", "phonetic": "/ˈpɪktʃə/", "example": "Look at this picture.", "difficulty": 2},
+        {"word": "next", "meaning": "下一个的；接下来", "phonetic": "/nekst/", "example": "The next day is Monday.", "difficulty": 2},
+        {"word": "girl", "meaning": "女孩", "phonetic": "/ɡɜːl/", "example": "The girl is my cousin.", "difficulty": 1},
+        {"word": "dog", "meaning": "狗", "phonetic": "/dɒɡ/", "example": "I have a cute dog.", "difficulty": 1},
+        {"word": "here", "meaning": "在这里", "phonetic": "/hɪə/", "example": "Here is your book.", "difficulty": 1}
+      ]
+    },
+    {
+      "level": 5,
+      "words": [
+        {"word": "pencil", "meaning": "铅笔", "phonetic": "/ˈpensl/", "example": "I have a red pencil.", "difficulty": 2},
+        {"word": "book", "meaning": "书", "phonetic": "/bʊk/", "example": "This is an English book.", "difficulty": 1},
+        {"word": "eraser", "meaning": "橡皮；橡皮擦", "phonetic": "/ɪˈreɪzə/", "example": "Can I use your eraser?", "difficulty": 3},
+        {"word": "box", "meaning": "盒；箱", "phonetic": "/bɒks/", "example": "The pencil box is blue.", "difficulty": 1},
+        {"word": "schoolbag", "meaning": "书包", "phonetic": "/ˈskuːlbæɡ/", "example": "My schoolbag is heavy.", "difficulty": 2},
+        {"word": "dictionary", "meaning": "词典；字典", "phonetic": "/ˈdɪkʃənri/", "example": "I need an English dictionary.", "difficulty": 4},
+        {"word": "his", "meaning": "他的", "phonetic": "/hɪz/", "example": "This is his bag.", "difficulty": 1},
+        {"word": "mine", "meaning": "我的", "phonetic": "/maɪn/", "example": "This book is mine.", "difficulty": 2},
+        {"word": "yours", "meaning": "你的；你们的", "phonetic": "/jɔːz/", "example": "Is this pen yours?", "difficulty": 2},
+        {"word": "teacher", "meaning": "老师；教师", "phonetic": "/ˈtiːtʃə/", "example": "Our teacher is very kind.", "difficulty": 2}
+      ]
+    },
+    {
+      "level": 6,
+      "words": [
+        {"word": "about", "meaning": "关于；大约", "phonetic": "/əˈbaʊt/", "example": "This is a book about animals.", "difficulty": 2},
+        {"word": "help", "meaning": "帮助；援助", "phonetic": "/help/", "example": "Can you help me?", "difficulty": 1},
+        {"word": "welcome", "meaning": "受欢迎的；欢迎", "phonetic": "/ˈwelkəm/", "example": "You are welcome.", "difficulty": 2},
+        {"word": "baseball", "meaning": "棒球", "phonetic": "/ˈbeɪsbɔːl/", "example": "I like playing baseball.", "difficulty": 3},
+        {"word": "watch", "meaning": "手表；观看", "phonetic": "/wɒtʃ/", "example": "My watch is broken.", "difficulty": 1},
+        {"word": "computer", "meaning": "电脑；计算机", "phonetic": "/kəmˈpjuːtə/", "example": "I have a new computer.", "difficulty": 3},
+        {"word": "game", "meaning": "游戏；运动", "phonetic": "/ɡeɪm/", "example": "Let's play a game.", "difficulty": 1},
+        {"word": "card", "meaning": "卡片；纸牌", "phonetic": "/kɑːd/", "example": "I have a birthday card.", "difficulty": 1},
+        {"word": "notebook", "meaning": "笔记本", "phonetic": "/ˈnəʊtbʊk/", "example": "I write in my notebook.", "difficulty": 2},
+        {"word": "ring", "meaning": "戒指；铃声", "phonetic": "/rɪŋ/", "example": "That is a gold ring.", "difficulty": 2}
+      ]
+    },
+    {
+      "level": 7,
+      "words": [
+        {"word": "where", "meaning": "在哪里", "phonetic": "/weə/", "example": "Where is my book?", "difficulty": 1},
+        {"word": "table", "meaning": "桌子", "phonetic": "/ˈteɪbl/", "example": "The book is on the table.", "difficulty": 2},
+        {"word": "bed", "meaning": "床", "phonetic": "/bed/", "example": "My cat is on the bed.", "difficulty": 1},
+        {"word": "bookcase", "meaning": "书架；书柜", "phonetic": "/ˈbʊkkeɪs/", "example": "Books are in the bookcase.", "difficulty": 3},
+        {"word": "sofa", "meaning": "沙发", "phonetic": "/ˈsəʊfə/", "example": "The sofa is very soft.", "difficulty": 3},
+        {"word": "chair", "meaning": "椅子", "phonetic": "/tʃeə/", "example": "Please sit on the chair.", "difficulty": 2},
+        {"word": "on", "meaning": "在……之上", "phonetic": "/ɒn/", "example": "The cup is on the desk.", "difficulty": 1},
+        {"word": "under", "meaning": "在……下面", "phonetic": "/ˈʌndə/", "example": "The ball is under the bed.", "difficulty": 2},
+        {"word": "come", "meaning": "来；来到", "phonetic": "/kʌm/", "example": "Come here, please.", "difficulty": 1},
+        {"word": "think", "meaning": "认为；想；思考", "phonetic": "/θɪŋk/", "example": "I think you are right.", "difficulty": 2}
+      ]
+    },
+    {
+      "level": 8,
+      "words": [
+        {"word": "room", "meaning": "房间", "phonetic": "/ruːm/", "example": "My room is very clean.", "difficulty": 1},
+        {"word": "their", "meaning": "他们的", "phonetic": "/ðeə/", "example": "Their house is big.", "difficulty": 2},
+        {"word": "hat", "meaning": "帽子", "phonetic": "/hæt/", "example": "She wears a red hat.", "difficulty": 1},
+        {"word": "head", "meaning": "头；头脑", "phonetic": "/hed/", "example": "My head hurts.", "difficulty": 1},
+        {"word": "know", "meaning": "知道；了解", "phonetic": "/nəʊ/", "example": "I know the answer.", "difficulty": 1},
+        {"word": "radio", "meaning": "收音机；无线电", "phonetic": "/ˈreɪdiəʊ/", "example": "I listen to the radio.", "difficulty": 3},
+        {"word": "clock", "meaning": "时钟", "phonetic": "/klɒk/", "example": "The clock is on the wall.", "difficulty": 2},
+        {"word": "tape", "meaning": "磁带；录音带", "phonetic": "/teɪp/", "example": "This is an English tape.", "difficulty": 3},
+        {"word": "player", "meaning": "播放机；运动员", "phonetic": "/ˈpleɪə/", "example": "He is a good tennis player.", "difficulty": 2},
+        {"word": "model", "meaning": "模型；模特儿", "phonetic": "/ˈmɒdl/", "example": "I have a model plane.", "difficulty": 3}
+      ]
+    },
+    {
+      "level": 9,
+      "words": [
+        {"word": "do", "meaning": "做；干", "phonetic": "/duː/", "example": "What do you do?", "difficulty": 1},
+        {"word": "have", "meaning": "有；吃", "phonetic": "/hæv/", "example": "I have breakfast at 7.", "difficulty": 1},
+        {"word": "tennis", "meaning": "网球", "phonetic": "/ˈtenɪs/", "example": "I like playing tennis.", "difficulty": 2},
+        {"word": "ball", "meaning": "球", "phonetic": "/bɔːl/", "example": "The ball is red.", "difficulty": 1},
+        {"word": "soccer", "meaning": "足球（英式）", "phonetic": "/ˈsɒkə/", "example": "He plays soccer well.", "difficulty": 2},
+        {"word": "volleyball", "meaning": "排球", "phonetic": "/ˈvɒlibɔːl/", "example": "Volleyball is interesting.", "difficulty": 4},
+        {"word": "basketball", "meaning": "篮球", "phonetic": "/ˈbɑːskɪtbɔːl/", "example": "I love playing basketball.", "difficulty": 3},
+        {"word": "bat", "meaning": "球棒；球拍", "phonetic": "/bæt/", "example": "I have a baseball bat.", "difficulty": 2},
+        {"word": "sport", "meaning": "体育运动", "phonetic": "/spɔːt/", "example": "Sport is good for health.", "difficulty": 2},
+        {"word": "let", "meaning": "允许；让", "phonetic": "/let/", "example": "Let me help you.", "difficulty": 1}
+      ]
+    },
+    {
+      "level": 10,
+      "words": [
+        {"word": "us", "meaning": "我们（宾格）", "phonetic": "/ʌs/", "example": "Please help us.", "difficulty": 1},
+        {"word": "go", "meaning": "去；走", "phonetic": "/ɡəʊ/", "example": "Let's go to school.", "difficulty": 1},
+        {"word": "late", "meaning": "迟到；晚的", "phonetic": "/leɪt/", "example": "Don't be late for class.", "difficulty": 2},
+        {"word": "has", "meaning": "有（have的第三人称）", "phonetic": "/hæz/", "example": "She has a new bike.", "difficulty": 1},
+        {"word": "get", "meaning": "得到；获得", "phonetic": "/ɡet/", "example": "I get up at 6 every day.", "difficulty": 1},
+        {"word": "great", "meaning": "伟大的；极好的", "phonetic": "/ɡreɪt/", "example": "That's a great idea!", "difficulty": 2},
+        {"word": "play", "meaning": "玩；打（球）；演奏", "phonetic": "/pleɪ/", "example": "The children play games.", "difficulty": 1},
+        {"word": "sound", "meaning": "声音；听起来", "phonetic": "/saʊnd/", "example": "That sounds good.", "difficulty": 2},
+        {"word": "interesting", "meaning": "有趣的", "phonetic": "/ˈɪntrəstɪŋ/", "example": "The story is interesting.", "difficulty": 4},
+        {"word": "boring", "meaning": "无聊的；令人厌烦的", "phonetic": "/ˈbɔːrɪŋ/", "example": "The movie is boring.", "difficulty": 3}
+      ]
+    },
+    {
+      "level": 11,
+      "words": [
+        {"word": "fun", "meaning": "乐趣；有趣的", "phonetic": "/fʌn/", "example": "The game is great fun.", "difficulty": 1},
+        {"word": "difficult", "meaning": "困难的", "phonetic": "/ˈdɪfɪkəlt/", "example": "Math is difficult for me.", "difficulty": 3},
+        {"word": "relaxing", "meaning": "令人放松的", "phonetic": "/rɪˈlæksɪŋ/", "example": "Music is relaxing.", "difficulty": 4},
+        {"word": "watch", "meaning": "观看；注视", "phonetic": "/wɒtʃ/", "example": "I watch TV every evening.", "difficulty": 1},
+        {"word": "only", "meaning": "只；仅仅", "phonetic": "/ˈəʊnli/", "example": "I only have one pen.", "difficulty": 2},
+        {"word": "easy", "meaning": "容易的", "phonetic": "/ˈiːzi/", "example": "This question is easy.", "difficulty": 2},
+        {"word": "after", "meaning": "在……之后", "phonetic": "/ˈɑːftə/", "example": "After school, I play football.", "difficulty": 2},
+        {"word": "class", "meaning": "班级；课", "phonetic": "/klɑːs/", "example": "Our class has 40 students.", "difficulty": 2},
+        {"word": "classmate", "meaning": "同班同学", "phonetic": "/ˈklɑːsmeɪt/", "example": "He is my classmate.", "difficulty": 3},
+        {"word": "same", "meaning": "相同的", "phonetic": "/seɪm/", "example": "We are in the same class.", "difficulty": 2}
+      ]
+    },
+    {
+      "level": 12,
+      "words": [
+        {"word": "love", "meaning": "爱；喜爱", "phonetic": "/lʌv/", "example": "I love my family.", "difficulty": 1},
+        {"word": "like", "meaning": "喜欢；像", "phonetic": "/laɪk/", "example": "I like English very much.", "difficulty": 1},
+        {"word": "with", "meaning": "和……一起；用", "phonetic": "/wɪð/", "example": "I play with my friend.", "difficulty": 1},
+        {"word": "them", "meaning": "他们（宾格）", "phonetic": "/ðem/", "example": "I like them very much.", "difficulty": 1},
+        {"word": "every", "meaning": "每一；每个", "phonetic": "/ˈevri/", "example": "I read books every day.", "difficulty": 2},
+        {"word": "day", "meaning": "天；一日", "phonetic": "/deɪ/", "example": "How is your day?", "difficulty": 1},
+        {"word": "so", "meaning": "所以；那么", "phonetic": "/səʊ/", "example": "I am tired, so I go to bed.", "difficulty": 1},
+        {"word": "because", "meaning": "因为", "phonetic": "/bɪˈkɒz/", "example": "I like dogs because they are cute.", "difficulty": 3},
+        {"word": "sure", "meaning": "肯定的；当然", "phonetic": "/ʃʊə/", "example": "Can you help me? Sure!", "difficulty": 2},
+        {"word": "fruit", "meaning": "水果", "phonetic": "/fruːt/", "example": "I eat fruit every day.", "difficulty": 2}
+      ]
+    }
+  ]
+}
