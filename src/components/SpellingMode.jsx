@@ -46,7 +46,6 @@ export default function SpellingMode(props) {
       
       <div class="spelling-input-area">
         <input
-          ref={inputRef}
           type="text"
           class="spelling-input"
           classList={{ correct: submitted() && isCorrect(), wrong: submitted() && !isCorrect() }}

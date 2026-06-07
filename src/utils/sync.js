@@ -1,6 +1,6 @@
 import { getPlayer, updatePlayer, getWrongWords, addSyncLog, getSyncLogs } from './db';
 
-const SYNC_API_BASE = 'http://localhost:3001/api';
+const SYNC_API_BASE = 'http://localhost:8202/api';
 
 export async function checkOnline() {
   return navigator.onLine;

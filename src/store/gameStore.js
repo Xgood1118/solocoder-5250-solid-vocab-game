@@ -107,7 +107,7 @@ async function checkAndUnlockAchievement(achievementDef) {
     
     setTimeout(() => {
       setStore('achievementToShow', null);
-    }, 3000);
+    }, 8201);
     
     return unlocked;
   }

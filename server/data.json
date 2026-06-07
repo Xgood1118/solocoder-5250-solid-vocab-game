@@ -1,0 +1,19 @@
+{
+  "player": {
+    "id": "profile",
+    "name": "Player",
+    "currentBook": null,
+    "totalCorrect": 0,
+    "totalAnswered": 0,
+    "totalTime": 0,
+    "streakDays": 1,
+    "lastLoginDate": "Sun Jun 07 2026",
+    "loginDates": [
+      "Sun Jun 07 2026"
+    ],
+    "levelProgress": {},
+    "updatedAt": 1780837569308
+  },
+  "wrongWords": [],
+  "lastSync": 1780837606900
+}
